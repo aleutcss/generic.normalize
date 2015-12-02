@@ -1,5 +1,5 @@
 {
-  "name": "aleut-normalize",
+  "name": "@aleut/aleut-normalize",
   "version": "4.0.0",
   "description": "Nicolas Gallagher’s Normalize.css used in the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.normalize.scss",
