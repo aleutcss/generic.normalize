@@ -7,7 +7,7 @@ Gallagher](https://twitter.com/necolas).
 
 
 
-Install using npm:
+## Install using npm:
 
     $ npm install --save-dev aleut-normalize
 
