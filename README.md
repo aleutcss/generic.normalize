@@ -9,7 +9,9 @@ Gallagher](https://twitter.com/necolas).
 
 ## Install using npm:
 
+```shell
     $ npm install --save-dev aleut-normalize
+```
 
 * Project homepage: [necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/)
 * GitHub repo: [github.com/necolas/normalize.css](https://github.com/necolas/normalize.css/)
