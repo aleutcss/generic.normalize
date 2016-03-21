@@ -1,7 +1,6 @@
 {
-  "name": "aleut.generic.normalize"
-,
-  "version": "1.0.2",
+  "name": "aleut.generic.normalize",
+  "version": "2.0.0",
   "description": "Nicolas Gallagher’s Normalize.css used in the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.normalize.scss",
   "repository": {
@@ -9,11 +8,29 @@
     "url": "https://github.com/aleutcss/generic.normalize.git"
   },
   "contributors": [
-    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
-    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
-    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"},
-    {"name": "Harry Roberts", "email": "harry@csswizardry.com"},
-    {"name": "Nicolas Gallagher", "email": "nicolasgallagher@gmail.com"}
+    {
+      "name": "Marius Hauken",
+      "url": "http://twitter.com/mhauken",
+      "email": "hauken@netliferesearch.com"
+    },
+    {
+      "name": "Robin Sandborg",
+      "url": "http://twitter.com/robrobro",
+      "email": "robin@netliferesearch.com"
+    },
+    {
+      "name": "Knut Melvær",
+      "url": "http://twitter.com/kmelve",
+      "email": "knut@netliferesearch.com"
+    },
+    {
+      "name": "Harry Roberts",
+      "email": "harry@csswizardry.com"
+    },
+    {
+      "name": "Nicolas Gallagher",
+      "email": "nicolasgallagher@gmail.com"
+    }
   ],
   "license": "MIT",
   "bugs": {
@@ -30,6 +47,5 @@
   "dependencies": {
     "aleut.settings.defaults": "~1.0.1",
     "aleut.tools.mixins": "~1.0.1"
-
   }
 }
