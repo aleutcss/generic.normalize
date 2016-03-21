@@ -1,7 +1,7 @@
 {
   "name": "aleut.generic.normalize"
 ,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nicolas Gallagher’s Normalize.css used in the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.normalize.scss",
   "repository": {
